@@ -127,7 +127,7 @@ Missions :
 
 **Livrable attendu :** `routage/visualisation_3d.py`
 
-### Membre 4 : Responsable des tests et de la documentation
+### Seuwo Belinda : Responsable des tests et de la documentation
 
 **Branche :** `feature/tests`
 
@@ -142,7 +142,7 @@ Missions :
 
 **Livrables attendus :** fichiers de tests et documentation technique.
 
-### Membre 5 : Responsable de l'architecture et de l'intégration
+### Simo Danielle : Responsable de l'architecture et de l'intégration
 
 **Branche de travail principale :** `develop`
 
