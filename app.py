@@ -1,4 +1,4 @@
-
+from routage.interface_routage import afficher_interface
 import streamlit as st
 from pathlib import Path
 
@@ -440,6 +440,8 @@ if st.session_state.telecom_page == "Accueil":
 # ============================================================
 
 elif st.session_state.telecom_page == "Routage de paquets":
+    from routage.interface_routage import afficher_interface
+    afficher_interface()
 
     render_module_page(
         "Routage optimal de paquets",
